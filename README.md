@@ -14,7 +14,7 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo
 
-## Integrantes: <a href="http://www.linkedin.com/in/caioalvesdeoliveira">Caio Alves de Oliveira</a>, <a href="https://github.com/mathbtfraga">Matheus Barbosa Tomaz Fraga</a>, <a href="https://github.com/Pecel03">Pedro Paulo Pereira Celebroni, <a href="https://www.linkedin.com/in/victorbarq/">Guilherme Santiago de Aguiar</a>, <a href="https://github.com/guilhermegsawork">Roronoa Zoro</a>
+## Integrantes: <a href="http://www.linkedin.com/in/caioalvesdeoliveira">Caio Alves de Oliveira</a>, <a href="https://github.com/mathbtfraga">Matheus Barbosa Tomaz Fraga</a>, <a href="https://github.com/Pecel03">Pedro Paulo Pereira Celebroni, <a href="https://github.com/guilhermegsawork">Guilherme Santiago de Aguiar</a>, <a href="https://github.com/guilhermegsawork">Roronoa Zoro</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
