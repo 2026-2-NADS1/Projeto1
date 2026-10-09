@@ -54,3 +54,18 @@ E:\PI_TESTE atualizado Relatório\obj\Debug\net10.0\refint\PI_TESTE.dll
 E:\PI_TESTE atualizado Relatório\obj\Debug\net10.0\PI_TESTE.pdb
 E:\PI_TESTE atualizado Relatório\obj\Debug\net10.0\PI_TESTE.genruntimeconfig.cache
 E:\PI_TESTE atualizado Relatório\obj\Debug\net10.0\ref\PI_TESTE.dll
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\bin\Debug\net10.0\PI_TESTE.exe
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\bin\Debug\net10.0\PI_TESTE.deps.json
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\bin\Debug\net10.0\PI_TESTE.runtimeconfig.json
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\bin\Debug\net10.0\PI_TESTE.dll
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\bin\Debug\net10.0\PI_TESTE.pdb
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\obj\Debug\net10.0\PI_TESTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\obj\Debug\net10.0\PI_TESTE.AssemblyInfoInputs.cache
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\obj\Debug\net10.0\PI_TESTE.AssemblyInfo.cs
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\obj\Debug\net10.0\PI_TESTE.csproj.CoreCompileInputs.cache
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\obj\Debug\net10.0\PI_TESTE.sourcelink.json
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\obj\Debug\net10.0\PI_TESTE.dll
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\obj\Debug\net10.0\refint\PI_TESTE.dll
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\obj\Debug\net10.0\PI_TESTE.pdb
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\obj\Debug\net10.0\PI_TESTE.genruntimeconfig.cache
+C:\Users\26029746\Documents\Projeto1\src\Entrega 1\Backend\Relatório\obj\Debug\net10.0\ref\PI_TESTE.dll
