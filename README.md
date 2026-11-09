@@ -16,21 +16,20 @@ Vide tutoriais do PI.
 
 ## Integrantes: <a href="http://www.linkedin.com/in/caioalvesdeoliveira">Caio Alves de Oliveira</a>, <a href="https://github.com/mathbtfraga">Matheus Barbosa Tomaz Fraga</a>, <a href="https://github.com/Pecel03">Pedro Paulo Pereira Celebroni, <a href="https://github.com/guilhermegsawork">Guilherme Santiago de Aguiar</a>, <a href="https://github.com/guilhermegsawork">Roronoa Zoro</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: Aimar Martins Lopes, Marcelo Amorim, Renata Muniz, Ronaldo Araujo Pinto, Victor Bruno Alexander Rosetti de Quiroz
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+>
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
+O Projeto a ser apresentado pretende trazer um desafio ao seus jogadores onde deverão acertar o maior número de alternativas sobre as maiores marcas do grupo Arcor, Tortuguita e Bon o Bon.
+<br><br>
+Para isto, o jogador deverá responder 7 perguntas do assunto escolhido, que podem ser perguntas relacionadas a marca Tortuguita ou  a marca Bon o Bon.
+Ao responder, o usuário receberá o resultado no final de suas escolhas
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
 <br><br>
 
 ## 🛠 Estrutura de pastas
