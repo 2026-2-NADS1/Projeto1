@@ -1,0 +1,66 @@
+
+CREATE DATABASE IF NOT EXISTS quiz_db;
+USE quiz_db;
+
+CREATE TABLE usuario (
+    id_jogador INT AUTO_INCREMENT PRIMARY KEY,
+    nickname   VARCHAR(50) NOT NULL UNIQUE
+);
+
+CREATE TABLE partida (
+    numero_partida INT AUTO_INCREMENT PRIMARY KEY,
+    id_jogador     INT NOT NULL,
+    modo           VARCHAR(30) NOT NULL,
+    dificuldade    VARCHAR(20) NOT NULL,
+    pontuacao      INT NOT NULL DEFAULT 0,
+    produto        VARCHAR(30) NOT NULL,
+    CONSTRAINT fk_partida_usuario
+        FOREIGN KEY (id_jogador) REFERENCES usuario (id_jogador)
+);
+
+CREATE TABLE perguntas_bon (
+    id            INT AUTO_INCREMENT PRIMARY KEY,
+    perguntas_df  VARCHAR(255) NOT NULL,
+    perguntas_dm  VARCHAR(255) NOT NULL,
+    perguntas_dd  VARCHAR(255) NOT NULL,
+    alternativas  JSON NOT NULL,
+   
+);
+
+CREATE TABLE perguntas_tor (
+    id            INT AUTO_INCREMENT PRIMARY KEY,
+    perguntas_df  VARCHAR(255) NOT NULL,
+    perguntas_dm  VARCHAR(255) NOT NULL,
+    perguntas_dd  VARCHAR(255) NOT NULL,
+    alternativas  JSON NOT NULL,
+);
+
+-- Relação "contem" (N:N)
+CREATE TABLE partida_pergunta_bon (
+    numero_partida  INT NOT NULL,
+    id_pergunta_bon INT NOT NULL,
+    PRIMARY KEY (numero_partida, id_pergunta_bon),
+    FOREIGN KEY (numero_partida)  REFERENCES partida (numero_partida),
+    FOREIGN KEY (id_pergunta_bon) REFERENCES perguntas_bon (id)
+);
+
+CREATE TABLE partida_pergunta_tor (
+    numero_partida  INT NOT NULL,
+    id_pergunta_tor INT NOT NULL,
+    PRIMARY KEY (numero_partida, id_pergunta_tor),
+    FOREIGN KEY (numero_partida)  REFERENCES partida (numero_partida),
+    FOREIGN KEY (id_pergunta_tor) REFERENCES perguntas_tor (id)
+);
+
+-- Relação "COMPARA": cada resposta se refere a UMA pergunta (Bon ou Tortuguita)
+CREATE TABLE resposta (
+    id               INT AUTO_INCREMENT PRIMARY KEY,
+    resposta_jogador VARCHAR(255) NOT NULL,
+    resposta_correta VARCHAR(255) NOT NULL,
+    ponto_obtido     INT NOT NULL DEFAULT 0,
+    id_pergunta_bon  INT NULL,
+    id_pergunta_tor  INT NULL,
+    FOREIGN KEY (id_pergunta_bon) REFERENCES perguntas_bon (id),
+    FOREIGN KEY (id_pergunta_tor) REFERENCES perguntas_tor (id),
+       )
+);
