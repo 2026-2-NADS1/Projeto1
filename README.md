@@ -22,8 +22,9 @@ Vide tutoriais do PI.
 
 <p align="center">
 >
+<img width="1132" height="105" alt="{227C32EC-0CBD-4B3D-BCB2-4D84526EFD20}" src="https://github.com/user-attachments/assets/5ca00c62-7f9d-4f74-b5dc-b21316555070" />
 
-O Projeto a ser apresentado pretende trazer um desafio ao seus jogadores onde deverão acertar o maior número de alternativas sobre as maiores marcas do grupo Arcor, Tortuguita e Bon o Bon.
+O Produto a ser apresentado pretende trazer um desafio no estilo Retro ao seus jogadores onde deverão acertar o maior número de alternativas sobre as maiores marcas do grupo grupo Arcor, Tortuguita e Bon o Bon.
 <br><br>
 Para isto, o jogador deverá responder 7 perguntas do assunto escolhido, que podem ser perguntas relacionadas a marca Tortuguita ou  a marca Bon o Bon.
 Ao responder, o usuário receberá o resultado no final de suas escolhas
@@ -32,73 +33,34 @@ Ao responder, o usuário receberá o resultado no final de suas escolhas
 
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
+-va<br>
 |<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
+|-->Documentos<br>
+  &emsp;|-->Entrega1<br>
+  &emsp;|-->Entrega2<br>
+  &emsp;|-->Projetoatual<br>
 |-->imagens<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+  &emsp;|-->Entrega1<br>
+  &emsp;|-->Entrega2<br>
 |readme.md<br>
-
-A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
 
 <b>Windows:</b>
 
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Não há instalação! Apenas o código a ser executado no prompt ou no Visual Studio Code!
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
 
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+Para executar o projeto, é necessário instalar a biblioteca Spectre.Console. Este  não acompanha o .NE pois ele é um pacote NuGet que precisa ser instalado em cada projeto. 
+Na pasta do projeto (por exemplo, no terminal do VS Code), execute:
+"dotnet add package Spectre.Console"
 
-Para abrir este projeto você necessita das seguintes ferramentas:
 
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
 
 ## 📋 Licença/License
 <a href="https://github.com/2026-2-NADS1/Projeto1">Projeto - Arcor</a> © 2026 by <a href="https://github.com/2026-2-NADS1/Projeto1">GUILHERME SANTIAGO DE AGUIAR,Pedro Paulo Pereira Celebroni,Matheus Barbosa Tomaz Fraga,Caio Alves de Oliveira,FECAP</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
@@ -107,9 +69,7 @@ Coloque código do prompt de comnando se for necessário
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+1. Materiais utilizados em aula.
+2. https://www.arcor.com.br/produtos-arcor/
+3. https://www.designerscriativos.com.br/tortuguita-se-reinventa-e-conquista-novas-geracoes/
+4. https://superfinancas.com.br/marketing-e-negocios/2025/05/tortuguita/#:~:text=A%20personagem%20cresce%20com%20seu%20p%C3%BAblico%3A%20cativa,R%24%20340%20milh%C3%B5es.%20*%20Dinheiro%20e%20Finan%C3%A7as.
