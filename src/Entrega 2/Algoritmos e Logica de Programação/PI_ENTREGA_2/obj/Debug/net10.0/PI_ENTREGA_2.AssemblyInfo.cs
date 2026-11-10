@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PI_ENTREGA_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c825175a3bb54e5372a2c095feb72e7c43f70a81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ac31772193d725b0ebfa1a4e6ae2812ddfaf4ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("PI_ENTREGA_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PI_ENTREGA_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
